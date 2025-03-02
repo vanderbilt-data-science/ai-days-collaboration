@@ -1,6 +1,8 @@
 # ai-days-collaboration
 Process research statements/CVs and find relationship for attendees.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/ai-days-collaboration/blob/main/ai_days_collaboration.ipynb)
+
 # AI Days Collaboration Matcher
 
 A tool for AI Days 2025 conference organizers to process attendees' CVs and research statements to identify potential collaboration opportunities.
